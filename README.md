@@ -5,10 +5,10 @@
 
 📚 Deepening knowledge in PostgreSQL, Docker, Node.js & React
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I build **web projects** and **practical applications** focused on **learning and real-world use**.  
+I’m focused on **improving logic**, **clean code**, and **building consistent development skills**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I also explore how development connects with **digital marketing**, **automation**, and **business-driven solutions**.
 
 ---
 
