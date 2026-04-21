@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, nice to meet you, I'm Lucas 👋
 
-<!--
-**LucasAlmeidaMG/lucasalmeidamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student | HTML, CSS & JavaScript**
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+📚 Deepening knowledge in PostgreSQL, Docker, Node.js & React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/LucasAlmeidaMG">
+    <img src="https://img.shields.io/badge/GitHub-LUCASALMEIDAMG-181717?style=for-the-badge&logo=github" />
+  </a>
+
+---
+
+## 🧠 What I do
+
+- 🌐 Front-end development (HTML, CSS, JavaScript)
+- ⚙️ Learning back-end with Node.js
+- 🗄️ Studying databases (PostgreSQL)
+- 🐳 Working with Docker for local environments
+- ⚛️ Exploring React for modern interfaces
+- 🚀 Building real-world projects and improving code structure
+- 📊 Dashboards & analytics
+- 📈 Applying performance marketing concepts to digital products
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasalmeidamg&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeidamg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code isn’t just about making things work.
+> It’s about building simple, efficient solutions that actually deliver results."_
+
+---
+
+🤝 Available for collaborations, partnerships, and meaningful projects
