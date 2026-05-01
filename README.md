@@ -58,8 +58,8 @@ I also explore how development connects with **digital marketing**, **automation
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasAlmeidaMG&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlmeidaMG&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasAlmeidaMG&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Lucas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlmeidaMG&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
