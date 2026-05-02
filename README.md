@@ -13,28 +13,17 @@ I also explore how development connects with **digital marketing**, **automation
 ---
 
 ## 🛠️ Tech Stack
-
-### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" />
-</div>
-
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,nodejs,express,mysql,postgres" />
-</div>
-
-### DevOps & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,,nodejs,c,express,mysql,postgres,docker,git,figma,vscode" />
 </div>
 
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasAlmeidaMG&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Lucas" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasAlmeidaMG&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasAlmeidaMG&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasAlmeidaMG&theme=tokyonight" />
 </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasAlmeidaMG&theme=tokyonight" />
 
 ---
 
