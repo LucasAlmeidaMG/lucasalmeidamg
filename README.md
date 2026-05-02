@@ -14,7 +14,7 @@ I also explore how development connects with **digital marketing**, **automation
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,,nodejs,c,express,mysql,postgres,docker,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,c,express,mysql,postgres,docker,git,figma,vscode" />
 </div>
 
 
